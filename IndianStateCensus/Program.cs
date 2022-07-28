@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Welcome to indian state census analyser problem");
+﻿using IndianStateCensus;
+CensusAnalyser census = new CensusAnalyser();
+Console.WriteLine("indian state census analyser");

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndianStateCensus", "IndianStateCensus\IndianStateCensus.csproj", "{95558EBC-0B32-4639-9F93-68BDAFB49B32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndianStateCensus", "IndianStateCensus\IndianStateCensus.csproj", "{95558EBC-0B32-4639-9F93-68BDAFB49B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "censusTestProject", "censusTestProject\censusTestProject.csproj", "{98623EC9-B9C9-4FAF-97F6-E9C2DB31FE15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{95558EBC-0B32-4639-9F93-68BDAFB49B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95558EBC-0B32-4639-9F93-68BDAFB49B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95558EBC-0B32-4639-9F93-68BDAFB49B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98623EC9-B9C9-4FAF-97F6-E9C2DB31FE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98623EC9-B9C9-4FAF-97F6-E9C2DB31FE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98623EC9-B9C9-4FAF-97F6-E9C2DB31FE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98623EC9-B9C9-4FAF-97F6-E9C2DB31FE15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
